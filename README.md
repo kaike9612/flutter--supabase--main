@@ -16,10 +16,6 @@ As técnicas e tecnologias utilizadas pra isso são
 - `Flutter Localizations` Internacionalização do app (PT-BR e EN-US).
 - `Google Fonts` Customização de tipografia.
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](httpsgithub.comWilliamBz12flutter-supabase) ou [baixá-lo](httpsgithub.comWilliamBz12flutter-supabasearchiverefsheadsmain.zip).
-
 ## 🛠️ Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir com o Android Studio ou Visual Studio Code. Para executar
